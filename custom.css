@@ -1,0 +1,12 @@
+/* Custom styling for Update/Delete and page forwards/backwards buttons
+ * Used in index.php page only */
+
+.actions {
+    min-width: 154px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: flex-end;
+}
+
